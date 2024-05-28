@@ -1,2 +1,2 @@
 --try different database cales "ras"
-select * from raswant
+select * from ras
